@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+header {
+  font-family: 'Gloria Hallelujah', cursive; }
+
+body {
+  background-color: #ebd0a5; }
+
+header {
+  background-color: #ebd0a5; }
+
+nav {
+  background-color: #ebd0a5; }
+
+.bkgcolor {
+  background-color: #ebd0a5; }
+
+Main {
+  background-color: #ebd0a5;
+  display: flex;
+  justify-content: center; }
+
+Footer {
+  background-color: #ebd0a5;
+  display: flex;
+  justify-content: center; }
+
+h1 {
+  display: flex;
+  align-items: center; }
+
+.containerheader {
+  display: flex;
+  justify-content: center;
+  height: 200px; }
+
+/*
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Indie Flower', cursive;
+*/
